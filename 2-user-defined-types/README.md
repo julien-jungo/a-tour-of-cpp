@@ -1,4 +1,4 @@
-2. User-Defined Types
+# 2. User-Defined Types
 
 ## 2.1 Introduction
 
