@@ -4,7 +4,7 @@
 
 ### Code
 
-[hello-world.cpp](code/hello-world.cpp)
+[hello_world.cpp](code/hello_world.cpp)
 
 ## 1.2. Programs
 

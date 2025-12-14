@@ -1,4 +1,8 @@
 .vscode/
 
-*/Code/*
-!*/Code/*.cpp
+*/code/**
+!*/code/**/
+
+!*.md
+!*.cpp
+!*.h
